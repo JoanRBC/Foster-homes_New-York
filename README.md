@@ -9,8 +9,8 @@ The final project is available in my Tableau Public repository (link available i
 
 ## Sheets
 
-Main_Dashboard:
-*Final project dashboard, featuring the number of children for each criteria (including the indicated CPS reports), and the number of care days for each type of Foster Home/Facility. Filters for every year between 1994-2017 as well as for all counties in New York are also available.
+Main_Dashboard:  
+-Final project dashboard, featuring the number of children for each criteria (including the indicated CPS reports), and the number of care days for each type of Foster Home/Facility. Filters for every year between 1994-2017 as well as for all counties in New York are also available.
 
 Map(main):
 -Map for every County(aliases) in New York.
