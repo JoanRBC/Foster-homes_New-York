@@ -1,13 +1,13 @@
 #Foster care houses - New York
 
 
-##Overview
+## Overview
 
 For this project I used a dataset with information about the annual foster care and children protective services for New York, available in Kaggle. This data includes basic data on child protective services(CPS) and foster care by county. I had access to the number of children for each criteria, and also the care days for each type of foster home.
 The final project is available in my Tableau Public repository (link available in Resources).
 
 
-##Sheets
+## Sheets
 
 Main_Dashboard:
 -Final project dashboard, featuring the number of children for each criteria (including the indicated CPS reports), and the number of care days for each type of Foster Home/Facility. Filters for every year between 1994-2017 as well as for all counties in New York are also available.
@@ -21,7 +21,7 @@ Numb_children(main):
 Foster_homes(main):
 -Number of care days for every year between 1994-2017 for each county and type of Foster Home/facility.
 
-###Adittional graphics:
+### Adittional graphics:
 
 Numb_children_treemap(main):
 -Comparison(by size) of the number of children served for every County in New York.
@@ -39,14 +39,14 @@ Numb_children(%):
 -Same analysis as for Numb_children(main), but in percentage.
 
 
-##Insights
+## Insights
 
 -Aprox 65.43% of the total number of children served belong to New York City.
 -Over the years, a general decrease of adoptions was verified, which may be the cause of the increase of the supervised independent living foster children (also called young adults, because they live on their own), .
 -There many report of children abuse/maltreatment between 2006-2011. These results match with the increase of care days obsrved for 'Other' foster home facilities (these other facilities include skilled nursing, residential treatment, specialized schools, and more), which suggest that these kids may have entered these type of Foster Home.
 
 
-##Future perspectives
+## Future perspectives
 
 -More information is required for a much deeper and detailed analysis (number of children by age and sex, and number of social workers per foster home are some examples). 
 -Same data for every county in the USA for a more powerful comparison and solution planning.
