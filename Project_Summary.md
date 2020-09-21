@@ -1,4 +1,4 @@
-# Foster care houses - New York
+# Foster care homes - New York
 
 
 ## Overview
