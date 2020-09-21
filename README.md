@@ -21,7 +21,7 @@ Numb_children(main):
 Foster_homes(main):  
 -Number of care days for every year between 1994-2017 for each county and type of Foster Home/facility.
 
-### Adittional graphics:  
+### Adittional graphs:  
 
 Numb_children_treemap(main):  
 -Comparison(by size) of the number of children served for every County in New York.
@@ -33,7 +33,7 @@ Foster_homes(NY/nNY):
 -Same analysis as for Foster_homes(main). Comparison of the number of care days between New York city(alone), and the remaining counties(grouped).
 
 Numb_children(NY/nNY):  
---Same analysis as for Numb_children(main). Comparison of the number of care days between New York city (alone), and the remaining counties(grouped).
+-Same analysis as for Numb_children(main). Comparison of the number of care days between New York city (alone), and the remaining counties(grouped).
 
 Numb_children(%):  
 -Same analysis as for Numb_children(main), but in percentage.
